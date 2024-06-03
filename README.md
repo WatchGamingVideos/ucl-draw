@@ -1,5 +1,5 @@
 # UEFA Champions League 2024-2025 Draw Simulator
-
+ 
 Welcome to the UEFA Champions League 2024-2025 Draw Simulator!
 
 This web application allows you to simulate the draw for the UEFA Champions League groups for the 2024-2025 season. The draw is based on the official rules and regulations of the UEFA Champions League.
